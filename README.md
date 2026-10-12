@@ -132,7 +132,7 @@ Trabajo grupal realizado en el bootcamp de Jupi Digital.
 | Juan Ignacio Bosch | Turismo interno | Limpieza de FACT_TurismoInterno | Turismo interno |
 | Leandro Sebastián Schonfeld | Diagnóstico regional (indicador de ranking regional, mapa regional de indicadores turísticos, recuperación por región y sector) | Limpieza de fuente de datos COVID | Indicador de ranking regional, indicador del mapa |
 
-## Contacto
+## Autor
 
 Manuel Martínez, Data Analyst
-[LinkedIn](https://www.linkedin.com/in/manuelmartinez92)
+[LinkedIn](https://www.linkedin.com/in/manuelmartinez92) 
