@@ -18,9 +18,9 @@ Dashboard en Power BI que mide cómo se recuperó el turismo en las 7 regiones d
 | Diagnóstico regional | Recuperación 2023 vs. promedio 2017-2019 por región y sector, y brecha entre ocupación hotelera y turismo interno |
 | Turismo interno | Demanda nacional, pernoctaciones, estadía media y gasto por región |
 
-![Resumen Ejecutivo](imagenes/01-resumen-ejecutivo.png)
-![Diagnóstico regional](imagenes/02-diagnostico-regional.png)
-![Turismo interno](imagenes/03-turismo-interno.png)
+![Resumen Ejecutivo](imagenes/01-resumen-ejecutivo.PNG)
+![Diagnóstico regional](imagenes/02-diagnostico-regional.PNG)
+![Turismo interno](imagenes/03-turismo-interno.PNG)
 
 ## Metodología
 
