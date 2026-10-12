@@ -29,7 +29,7 @@ Dashboard en Power BI que mide cómo se recuperó el turismo en las 7 regiones d
 - **Indicador de recuperación:** valor 2023 dividido por el promedio 2017-2019, en tres dimensiones: viajeros hospedados, turismo interno y conectividad aérea.
 - **Brecha:** diferencia, en puntos porcentuales, entre la recuperación de la ocupación hotelera y la del turismo interno.
 - **Clasificación regional:** al cruzar las tres dimensiones, las 7 regiones se agrupan en 3 patrones de recuperación claramente distintos.
-- **Medidas DAX:** detalle en [`docs/medidas-dax.md`](docs/medidas-dax.md).
+- **Medidas DAX:** detalle en [`docs/medidas-dax.md`](docs/medidas_dax.md).
 
 ## Resultados: tres patrones de recuperación
 
