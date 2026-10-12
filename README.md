@@ -130,7 +130,7 @@ Trabajo grupal realizado en el bootcamp de Jupi Digital.
 | Manuel Martínez | Resumen Ejecutivo | FACT_Hoteleria (ocupación), DIM_Provincia_Coord, DIM_Provincia_Region | Latitud y longitud, diagnóstico |
 | Lorena Eliana Tollo | Diagnóstico regional (brecha y oportunidades por región) | Limpieza de DIM_Categoria_Hotelera y FACT_Hoteleria_Demanda | Hotelería |
 | Juan Ignacio Bosch | Turismo interno | Limpieza de FACT_TurismoInterno | Turismo interno |
-| Leandro Sebastián Schonfeld | Diagnóstico regional (indicador de ranking regional, mapa regional de indicadores turísticos, recuperación por región y sector) | Limpieza de fuente de datos | Indicador de ranking regional, indicador del mapa |
+| Leandro Sebastián Schonfeld | Diagnóstico regional (indicador de ranking regional, mapa regional de indicadores turísticos, recuperación por región y sector) | Limpieza de fuente de datos COVID | Indicador de ranking regional, indicador del mapa |
 
 ## Contacto
 
