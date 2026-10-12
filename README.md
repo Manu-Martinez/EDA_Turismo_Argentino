@@ -135,5 +135,5 @@ Trabajo grupal realizado en el bootcamp de Jupi Digital.
 ---
 ## Autor
 
-Manuel Martínez · Data Analyst
+**Manuel Martínez** · Data Analyst
 [LinkedIn](https://www.linkedin.com/in/manuelmartinez92) 
